@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I’m Wahdel 👋 
+I am a Computer Science graduate who has just recently finished his training to be a Java Developer and SDET Consultant. 
 
-<!--
-**WahdelMW/WahdelMW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages and Tools:
+# Java ![java_logo][java_logo]
+# MySQL ![sql_logo][sql_logo]
+# Maven ![maven_logo][maven_logo]
+# Spring ![spring_logo][spring_logo]
+# Cucumber ![cucumber_logo][cucumber_logo]
+# Selenium ![selenium_logo][selenium_logo]
+# Thymeleaf ![thymeleaf_logo][thymeleaf_logo]
+# Python ![python_logo][python_logo]
+# C# ![csharp_logo][csharp_logo]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[java_logo]: https://cdn.svgporn.com/logos/java.svg
+[sql_logo]: https://cdn.svgporn.com/logos/mysql.svg
+[maven_logo]: https://cdn.svgporn.com/logos/maven.svg
+[spring_logo]: https://cdn.svgporn.com/logos/spring-icon.svg
+[cucumber_logo]: https://cdn.svgporn.com/logos/cucumber.svg
+[selenium_logo]: https://cdn.svgporn.com/logos/selenium.svg
+[python_logo]: https://cdn.svgporn.com/logos/python.svg
+[csharp_logo]: https://cdn.svgporn.com/logos/c-sharp.svg
+[thymeleaf_logo]: https://www.thymeleaf.org/images/thymeleaf.png
